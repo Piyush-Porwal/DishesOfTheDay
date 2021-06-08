@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">110dp</dimen>
+    <dimen name="placeholderTextHeight">15dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+
+    <!-- Status bar height (24dp) -->
+    <dimen name="guideline_top_status_bar">24dp</dimen>
+    <!-- Status bar height (24dp) + 4dp margin -->
+    <dimen name="guideline_top_status_bar_1">28dp</dimen>
+    <!-- Status bar height (24dp)+ 16dp margin -->
+    <dimen name="guideline_top_status_bar_2">40dp</dimen>
+
+    <dimen name="guideline_bottom_gesture">16dp</dimen>
+
+    <dimen name="toolbar_height">90dp</dimen>
+
+    <!-- Card View -->
+    <dimen name="headline_card_view_height">400dp</dimen>
+    <dimen name="card_corner_radius">6dp</dimen>
+    <dimen name="card_elevation_default">2dp</dimen>
+    <dimen name="card_corner_radius_snackbar">4dp</dimen>
+    <dimen name="card_wide_corner_radius">9dp</dimen>
+    <dimen name="card_margin_vertical">8dp</dimen>
+
+    <!-- Icon -->
+    <dimen name="icon_height_width">24dp</dimen>
+    <!-- For text left/right drawables -->
+    <dimen name="icon_height_width_1">16dp</dimen>
+    <dimen name="icon_height_width_2">20dp</dimen>
+    <dimen name="nav_icon_height_width">22dp</dimen>
+
+    <!-- Overline -->
+    <dimen name="overline_padding_horizontal">6dp</dimen>
+    <dimen name="overline_padding_vertical">4dp</dimen>
+    <dimen name="overline_elevation">1dp</dimen>
+
+    <!-- Button -->
+    <dimen name="button_height_default">52dp</dimen>
+    <dimen name="button_wide_corner_radius">8dp</dimen>
+    <dimen name="button_wide_inset">2dp</dimen>
+    <dimen name="button_corner_radius">6dp</dimen>
+    <dimen name="button_padding_internal">8dp</dimen>
+    <dimen name="button_wide_padding_internal_start_end">16dp</dimen>
+    <dimen name="button_wide_icon_padding_internal_start">40dp</dimen>
+    <dimen name="button_padding_internal_dense">4dp</dimen>
+    <dimen name="button_inset">2dp</dimen>
+    <dimen name="button_icon_height_width">48dp</dimen>
+    <dimen name="button_icon_height_width_2">44dp</dimen>
+    <dimen name="button_icon_height_width_3">36dp</dimen>
+    <dimen name="button_icon_height_width_4">28dp</dimen>
+    <dimen name="button_spacing_horizontal">8dp</dimen>
+    <dimen name="button_spacing_horizontal_2">12dp</dimen>
+
+    <!-- Chip -->
+    <dimen name="chip_height_default">40dp</dimen>
+    <dimen name="chip_padding_default">12dp</dimen>
+
+    <!-- TabLayout -->
+    <dimen name="tab_indicator_height">2dp</dimen>
+
+    <!-- Text -->
+    <dimen name="headline_size">29sp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="content_size">14sp</dimen>
+
+    <dimen name="text_size_h1">30sp</dimen>
+    <dimen name="text_size_h1_1">27sp</dimen>
+    <dimen name="text_size_h2">24sp</dimen>
+    <dimen name="text_size_h3">20sp</dimen>
+    <dimen name="text_size_h4">18sp</dimen>
+    <dimen name="text_size_h5">16sp</dimen>
+    <dimen name="text_size_subtitle">16sp</dimen>
+    <dimen name="text_size_label">14sp</dimen>
+    <dimen name="text_size_body_1">16sp</dimen>
+    <dimen name="text_size_body_2">14sp</dimen>
+    <dimen name="text_size_footnote">13sp</dimen>
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+    <dimen name="text_size_button_small">13sp</dimen>
+    <dimen name="text_size_overline">10sp</dimen>
+    <dimen name="text_size_overline_2">11sp</dimen>
+    <dimen name="line_height_h1">30sp</dimen>
+    <dimen name="line_height_h2">30sp</dimen>
+    <dimen name="line_height_h3">28sp</dimen>
+    <dimen name="line_height_h4">25sp</dimen>
+    <dimen name="line_height_h5">17sp</dimen>
+    <dimen name="line_height_subtitle">17sp</dimen>
+    <dimen name="line_height_body_1">22sp</dimen>
+    <dimen name="line_height_body_2">20sp</dimen>
+    <dimen name="line_height_label">14sp</dimen>
+    <dimen name="line_height_footnote">18sp</dimen>
+    <dimen name="line_height_caption">16sp</dimen>
+    <dimen name="line_height_overline">13sp</dimen>
+    <dimen name="line_height_button">15sp</dimen>
+    <dimen name="line_height_overline_2">11sp</dimen>
+
+    <dimen name="text_drawable_padding_dense">4dp</dimen>
+    <dimen name="text_label_padding">6dp</dimen>
+    <dimen name="text_spacing_vertical_body">12dp</dimen>
+    <dimen name="text_spacing_vertical_title">4dp</dimen>
+    <dimen name="text_spacing_vertical_default">8dp</dimen>
+
+    <!-- Checkbox -->
+    <dimen name="checkbox_corner_radius">9dp</dimen>
+    <dimen name="checkbox_icon_stroke_width">2dp</dimen>
+
+    <!-- Progress bar -->
+    <dimen name="progress_bar_small_height_width">24dp</dimen>
+    <dimen name="progress_bar_medium_height_width">48dp</dimen>
+    <dimen name="progress_bar_support_text_spacing">24dp</dimen>
+
+</resources>

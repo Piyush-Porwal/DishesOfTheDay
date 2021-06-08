@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_dishes_of_the_day"
+    android:id="@+id/dishes_navigation">
+
+    <fragment
+        android:id="@+id/navigation_dishes_of_the_day"
+        android:name="com.smarnomad.dishes.ui.dishesoftheday.DishesOfTheDayFragment"
+        tools:layout="@layout/fragment_dishes_of_the_day">
+
+        <action
+            android:id="@+id/action_navigation_dishes_of_the_day_to_navigation_dish_details"
+            app:destination="@id/navigation_dish_details"
+            app:enterAnim="@anim/enter_bottom"
+            app:popExitAnim="@anim/exit_bottom" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_dish_details"
+        android:name="com.smarnomad.dishes.ui.dishdetails.DishDetailsFragment"
+        tools:layout="@layout/fragment_dish_details">
+
+        <argument
+            android:name="id"
+            app:argType="integer">
+        </argument>
+
+    </fragment>
+
+</navigation>
